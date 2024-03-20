@@ -1,1 +1,2 @@
-# tryndamere-site
+
+This project entails the creation of a web page inspired by my favorite champion from League of Legends, Tryndamere. Utilizing HTML and CSS, with a focus on implementing Flexbox, I aim to translate the design into a fully functional webpage. Upon completion, this project will demonstrate proficiency in HTML, CSS, and Flexbox, showcasing the ability to transform a visual concept into a responsive and visually appealing web interface.
